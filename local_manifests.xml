@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="sdhz151" revision="arrow-9.x" />
+<project name="android_device_oppo_common" path="device/oppo/common" remote="sdhz151" />
+<project name="android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="sdhz151" />
+<project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="sdhz151" revision="lineage-16.0" />
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+</manifest>
